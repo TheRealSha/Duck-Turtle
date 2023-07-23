@@ -1,0 +1,11 @@
+{
+  "contact": "@therealsha on discord",
+  "templates": [
+    {
+      "name": "NAME_YOUR_ART",
+      "sources": ["https://imgur.com/a/gb437O9"],
+      "x": 9,
+      "y": 333
+    }
+  ]
+}
